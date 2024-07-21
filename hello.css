@@ -16,3 +16,7 @@
 .wrapper {
     padding: 0 0 100px;
 }
+
+.wrapper .password-info {
+    font-size: 11px;
+}
